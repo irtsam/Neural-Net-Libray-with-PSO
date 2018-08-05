@@ -1,0 +1,38 @@
+Normalized Data:
+	Epochs: 500
+	Time= 
+	Accuracy= 
+Normalized Data with Momentum=0.1:
+	Epochs=500
+	Time=320.295 seconds
+	Accuracy=79.311
+Normalized Data with Momentum=0.1:
+	Epochs=1000
+	Time=652.085604429245.295 seconds
+	Accuracy=78.71014492753623
+Normalized Data with Momentum=0.5:
+	Epochs=1000
+	Time=653.539 seconds
+	Accuracy=79.862
+
+
+SGD Results:
+Normalized Data with Momentum=0.8:
+	Epochs=200
+	Time=126.798 seconds
+	Accuracy=78.003
+Normalized Data with Momentum=0.2:
+	Epochs=200
+	Time=126.699 seconds
+	Accuracy=77.50
+Normalized Data with No Momentum:
+	Epochs=200
+	Time=124.312 seconds
+	Accuracy=76.428
+Data with No Normalization:
+	Epochs=200
+	Time=225.822 seconds
+	Accuracy=74.681
+
+PSO Results:
+
